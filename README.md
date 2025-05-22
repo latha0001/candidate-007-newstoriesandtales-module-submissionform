@@ -64,6 +64,8 @@ npm run dev
 
 The application will be available at `http://localhost:5173/` by default.
 
+Netlify Live Demo Link : https://legendary-tarsier-69d4f3.netlify.app/
+
 ### Building for Production
 
 To build the application for production:
